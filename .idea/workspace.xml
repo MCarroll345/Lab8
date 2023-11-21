@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6ea38f0-13fc-481f-b3fe-5a24ab8e5ec0" name="Changes" comment="Code for better appending text">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/PrintingWrite.java" afterDir="false" />
+    <list default="true" id="a6ea38f0-13fc-481f-b3fe-5a24ab8e5ec0" name="Changes" comment="Code to better format text in a file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/userIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/File13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/File13.txt" afterDir="false" />
     </list>
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature2" />
+        <entry key="$PROJECT_DIR$" value="feature3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700572196963</updated>
-      <workItem from="1700572197693" duration="4973000" />
+      <workItem from="1700572197693" duration="5726000" />
     </task>
     <task id="LOCAL-00001" summary="Files created">
       <created>1700572533701</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700575856856</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Code to better format text in a file">
+      <created>1700577430935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700577430935</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
     <MESSAGE value="Code for writing to a file" />
     <MESSAGE value="Code for appending text" />
     <MESSAGE value="Code for better appending text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code for better appending text" />
+    <MESSAGE value="Code to better format text in a file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code to better format text in a file" />
   </component>
 </project>
