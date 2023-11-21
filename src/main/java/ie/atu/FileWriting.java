@@ -6,11 +6,9 @@ public class FileWriting {
     public static void main(String[] args) {
 
         try{
-            FileWriter fw = new FileWriter("C:/Users/G00419267@atu.ie/IdeaProjects/Lab8/File13.txt");
+            FileWriter fw = new FileWriter("C:/Users/G00419267@atu.ie/IdeaProjects/Lab8/File13.txt", true);
 
             fw.write("New method 3");
-
-            fw.append(" Extra");
 
             System.out.println("Successful");
 
