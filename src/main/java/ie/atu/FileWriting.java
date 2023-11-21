@@ -8,7 +8,9 @@ public class FileWriting {
         try{
             FileWriter fw = new FileWriter("C:/Users/G00419267@atu.ie/IdeaProjects/Lab8/File13.txt");
 
-            fw.write("New method2");
+            fw.write("New method 3");
+
+            fw.append(" Extra");
 
             System.out.println("Successful");
 
